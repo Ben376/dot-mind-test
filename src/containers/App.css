@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.GridList {
+  display: flex;
+  flex-wrap: row wrap;
+  justify-content: space-around;
+
+  padding: 0;
+  margin: 0;
+
+}

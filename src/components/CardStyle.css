@@ -1,0 +1,8 @@
+.CardStyle {
+    border: 2px solid black;
+    width: 150px;
+    height: 165px;
+    padding: 10px;
+    margin: 15px;
+    display: inline-block;
+}
